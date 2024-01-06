@@ -17,3 +17,13 @@ I delete the above import line and then the problem is resolved, all the errors 
 
 ### useNavigate() may be used only in the context of a <Router> component
 **Solve:** [link](https://stackoverflow.com/questions/70491774/usenavigate-may-be-used-only-in-the-context-of-a-router-component)
+
+### Install Postman 
+**Solve:** [Downloads](https://www.postman.com/downloads/) <br> <br> 
+**Starting of Postman:** 
+- Go to the downloaded folder,
+- Extract it anywhrer then go to the extracted folder.
+-  Go to app folder of extracted folder.
+-  Open terminal from this folder.
+-  Enter this line `./Postman.
+-  Wait for a while and 'Postman' will be started.
